@@ -31,6 +31,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
+Sorry, the gif lags a bit in the middle. D: 
 
 <img src='http://i.imgur.com/m9TDaVH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
